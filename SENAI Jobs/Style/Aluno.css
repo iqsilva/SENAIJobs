@@ -1,0 +1,32 @@
+﻿body {
+        background: linear-gradient(white, #696969) no-repeat;
+        background-color:#696969;
+}
+
+#Centro {
+    width: 900px;
+    margin: 0 auto 0 auto;
+    height: auto;
+    padding: 20px;
+    color:#000;
+}
+
+#FormAluno {
+    width: 600px;
+    height: 500px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    background-color:#363636;
+    padding: 20px;
+    border: 2px solid;
+    border-radius: 25px;
+    color: #fff;
+    font-family:'Lucida Sans';
+    display: table;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    font-family:'Lucida Sans';
+}

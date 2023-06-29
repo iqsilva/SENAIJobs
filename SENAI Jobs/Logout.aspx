@@ -1,0 +1,1 @@
+﻿<%@ Page Title="" Language="C#" AutoEventWireup="true" CodeBehind="Logout.aspx.cs" Inherits="SENAI_Jobs.Logout" %>

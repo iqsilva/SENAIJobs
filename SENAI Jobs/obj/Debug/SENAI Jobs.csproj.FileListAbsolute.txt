@@ -1,0 +1,10 @@
+C:\Users\aluno.ESCOLAR509\Desktop\KenjiSoft\SENAIJobs\SENAI Jobs\obj\Debug\SENAI Jobs.csprojResolveAssemblyReference.cache
+C:\Users\aluno.ESCOLAR509\Desktop\KenjiSoft\SENAIJobs\SENAI Jobs\bin\SENAI Jobs.dll
+C:\Users\aluno.ESCOLAR509\Desktop\KenjiSoft\SENAIJobs\SENAI Jobs\bin\SENAI Jobs.pdb
+C:\Users\aluno.ESCOLAR509\Desktop\KenjiSoft\SENAIJobs\SENAI Jobs\obj\Debug\SENAI Jobs.dll
+C:\Users\aluno.ESCOLAR509\Desktop\KenjiSoft\SENAIJobs\SENAI Jobs\obj\Debug\SENAI Jobs.pdb
+E:\Users\Igor\Desktop\Igor\Senai_TCC\SENAIJobs\SENAI Jobs\bin\SENAI Jobs.dll
+E:\Users\Igor\Desktop\Igor\Senai_TCC\SENAIJobs\SENAI Jobs\bin\SENAI Jobs.pdb
+E:\Users\Igor\Desktop\Igor\Senai_TCC\SENAIJobs\SENAI Jobs\obj\Debug\SENAI Jobs.csprojResolveAssemblyReference.cache
+E:\Users\Igor\Desktop\Igor\Senai_TCC\SENAIJobs\SENAI Jobs\obj\Debug\SENAI Jobs.dll
+E:\Users\Igor\Desktop\Igor\Senai_TCC\SENAIJobs\SENAI Jobs\obj\Debug\SENAI Jobs.pdb

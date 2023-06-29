@@ -1,0 +1,44 @@
+﻿body {
+        background: linear-gradient(white, #cccbcb) no-repeat;
+        background-color:#cccbcb;
+}
+
+#Centro {
+    width: 900px;
+    margin: 0 auto 0 auto;
+    height: auto;
+    padding: 20px;
+    color:#000;
+}
+
+#FormHabilidade {
+    width: auto;
+    height: auto;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    background-color:#cccbcb;
+    padding: 20px;
+    border: 2px solid;
+    border-radius: 25px;
+    color: #fff;
+    font-family:'Lucida Sans';
+    display: table;
+}
+
+    #FormHabilidade label {
+        width: 77px;
+        display: block;
+        float: left;
+        text-align: left;
+        line-height: 25px;
+    }
+
+    #FormHabilidade input[type=text] {
+        width: 70%;
+    }
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    font-family:'Lucida Sans';
+}
+

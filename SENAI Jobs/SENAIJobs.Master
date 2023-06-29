@@ -1,0 +1,21 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SENAIJobs.master.cs" Inherits="SENAI_Jobs.SENAIJobs" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head runat="server">
+        <title>
+            SENAI Jobs - <asp:ContentPlaceHolder ID="Title" runat="server"></asp:ContentPlaceHolder>
+        </title>
+
+        <link href="/Style/Design.css" rel="stylesheet" />
+
+        <script type="text/javascript" src="/Scripts/jquery-2.1.1.min.js"></script>
+
+        <asp:ContentPlaceHolder ID="Head" runat="server"></asp:ContentPlaceHolder>
+    </head>
+
+    <body>
+        <asp:ContentPlaceHolder ID="Body" runat="server"></asp:ContentPlaceHolder>
+    </body>
+</html>
